@@ -7,3 +7,16 @@ print(str[::2]) # prints DcoPeoea
 str = "Geeks"
 print(str[::2]) 
 
+# Try this with your own strings:
+# "Programming"
+# "Python123"
+# "HolidayTime"
+
+s = "Programming"
+print(s[::3]) # Pgmn
+
+s = "Python123"
+print(s[::4]) # Po3
+
+s = "HolidayTime"
+print(s[::2]) # Hldyie
