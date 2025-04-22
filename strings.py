@@ -6,3 +6,4 @@ print(str[::2]) # prints DcoPeoea
 
 str = "Geeks"
 print(str[::2]) 
+
